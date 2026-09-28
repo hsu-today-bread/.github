@@ -19,6 +19,12 @@
 - 문서화와 컨벤션을 통해 팀원이 함께 유지보수할 수 있는 개발 환경 구성
 - 릴리즈 가능 수준의 개발 완성도 추구
 
+## 시스템 구성도
+
+[![오늘의 빵 시스템 구성도](../assets/todaybread-system-architecture.png)](../assets/todaybread-system-architecture.png)
+
+이미지를 클릭하면 원본 크기로 확인할 수 있습니다.
+
 ## 팀원
 
 | 역할 | 이름 | GitHub |
